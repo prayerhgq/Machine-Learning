@@ -1,2 +1,2 @@
 # Machine-Learning
-This is my first algorithm  chapter
+This is my first respository.  
